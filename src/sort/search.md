@@ -1,6 +1,7 @@
 ## 基本情報
 
 | パッケージ名 | ファイルパス | 閲覧時点の最新コミット |
+| :---: | :---: | :--- |
 | sort | src/sort/search.go | [af2ac479fc9e4833357a3281a67cd517d2da07ad](https://github.com/golang/go/commit/af2ac479fc9e4833357a3281a67cd517d2da07ad) |
 
 ## ファイル説明
